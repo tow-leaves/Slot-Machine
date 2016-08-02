@@ -3,7 +3,7 @@ function runSlots() {
     var slotTwo;
     var slotThree;
     
-    var images = ["http://gb.cri.cn/mmsource/images/2005/07/19/pa050719111.jpg", "http://a2.att.hudong.com/68/74/05300439213381133523747871500.jpg", "http://www.2565cn.com/Uploads/Goods/20140712/thumb_s_53c08b78c4379.jpg"];
+    var images = ["img/Banana.jpg", "img/Cherry.jpg", "img/Lemon.jpg"];
     
     slotOne = Math.floor(Math.random() * (3 - 1 + 1)) + 1;
     slotTwo = Math.floor(Math.random() * (3 - 1 + 1)) + 1;
